@@ -1,0 +1,43 @@
+# Dependencies (Thư mục cài đặt thư viện)
+node_modules/
+.pnpm-store/
+jspm_packages/
+web_modules/
+
+# Production / Build outputs (Thư mục sản phẩm sau khi build)
+dist/
+dist-ssr/
+build/
+
+# Logs (File ghi nhật ký lỗi)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment variables & Secrets (Các file cấu hình môi trường bí mật)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.local
+
+# Editor/IDE configs (Cấu hình riêng của các trình soạn thảo mã nguồn)
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Diagnostic reports (Báo cáo lỗi từ Oxlint/ESLint nếu có)
+.eslintcache
+.oxlintcache
+
+# OS Files (Các file rác tự động sinh ra bởi hệ điều hành)
+.DS_Store
+Thumbs.db
