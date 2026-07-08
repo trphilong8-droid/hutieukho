@@ -41,7 +41,7 @@ export const foodItems = [
     id: "ca-lang-nuong",
     title: "Cá lăng nướng muối ớt",
     description: "Cá lăng đặc sản sông nước thịt săn chắc, ngọt thơm được tẩm ướp muối ớt đậm đà, nướng trên than hồng cho lớp da vàng giòn, thơm nức mũi, ăn kèm với các loại rau rừng Cát Tiên.",
-    image: "https://images.unsplash.com/photo-1560611551-b25b37887b3b?q=80&w=2000&auto=format&fit=crop",
+    image: "https://lammonngon.vn/wp-content/uploads/2024/08/Cach-lam-ca-lang-nuong-sa-te.jpg",
     price: "250.000đ / kg",
     category: "Đặc sản nướng"
   },
